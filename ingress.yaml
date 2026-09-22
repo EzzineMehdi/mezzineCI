@@ -5,7 +5,7 @@ metadata:
   namespace: dev
 spec:
   rules:
-    - host: playground.local
+    - host: wil-playground
       http:
         paths:
           - path: /
